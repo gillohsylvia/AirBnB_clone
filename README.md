@@ -8,7 +8,11 @@ Welcome to the AirBnB clone project! (The Holberton B&B)
 
 ## Getting Started
 
- 
+## Concepts
+* Python packages
+* The console
+
+
 **What’s a command interpreter?**
 
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to
