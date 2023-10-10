@@ -9,8 +9,8 @@ Welcome to the AirBnB clone project! (The Holberton B&B)
 ## Getting Started
 
 ## Concepts
-* Python packages
-* The console
+* [Python packages](Python-packages.md)
+* [The console](AirBnB-clone.md)
 
 
 **What’s a command interpreter?**
